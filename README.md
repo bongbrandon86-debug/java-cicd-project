@@ -4,7 +4,7 @@
 
 Vous travaillez pour une entreprise qui développe une application Java basée sur Maven. L'application doit être construite, testée et déployée automatiquement à chaque commit sur GitLab. Vous devez également intégrer des vérifications de sécurité dans le pipeline CI/CD.
 
-[lien vers le projet gitlab](#)
+[lien vers le projet gitlab](https://gitlab.com/fodoup/test-integrateur.git)
 
 ## Étapes
 
